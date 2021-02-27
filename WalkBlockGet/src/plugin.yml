@@ -1,0 +1,6 @@
+name: Tutorial
+author: Taha
+version: 1.0
+main: io.github.Taha2k7.WalkBlockGet.Main
+description: To learn bukkit
+api-version: 1.16
